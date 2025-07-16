@@ -1,5 +1,6 @@
 ---
 title: Home
+layout: default
 ---
 
 # 3XAY-Dark-Jekyll
