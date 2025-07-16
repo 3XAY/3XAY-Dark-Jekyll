@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: 3XAY-Dark-Jekyll
+description: "This theme is an aesthetic dark Jekyll theme, similar to my VSC theme"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
